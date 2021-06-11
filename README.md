@@ -1,4 +1,4 @@
-# Dr.-Semmelweis-and-the-Discovery-of-Handwashing
+# Dr.Semmelweis and the Discovery of Handwashing
 
 ![Dr.-Semmelweis](https://github.com/Maddy1299/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/blob/2e221bbb552a2ac95be9a88435060b6958530d4d/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/datasets/ignaz_semmelweis_1860.jpeg?raw=true)
 
